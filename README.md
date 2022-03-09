@@ -13,12 +13,7 @@
 
 ##
 
-<div align="center">  
-  <a href="https://github.com/joaowillas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-willas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko"/>
-</div>
-  
-  ##
+- Rede social
   
  <div>  
   <a href="http://www.linkedin.com/in/joaowillas">
