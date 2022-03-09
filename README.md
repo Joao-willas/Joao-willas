@@ -1,6 +1,6 @@
 - 👋 OI, eu sou o Joao-willas
 - Cursando Redes de Computadores - UEMA
-- 💻 Estudando Java
+- 💻 Estudando Java e buscando uma oportunidade com junior
 
 <div>
 <a>
