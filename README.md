@@ -1,4 +1,5 @@
 - 👋 OI, eu sou o Joao-willas
+- Cursando Redes de Computadores - UEMA
 - 💻 Estudando Java
 
 <div>
